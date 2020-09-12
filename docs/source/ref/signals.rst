@@ -192,7 +192,7 @@ Arguments sent with this signal:
 
     The response instance
 
-``review_created``
+``review_added``
 ------------------
 
 .. class:: oscar.apps.catalogue.reviews.signals.review_added
